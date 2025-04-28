@@ -25,7 +25,7 @@ StudyNotion is a dynamic educational platform where students can purchase course
 
 ### How to Set Up and Run the Project
 ***Clone the repository*** 
- -> git clone https://github.com/RaviP9973/studynotion.git
+ -> git clone https://github.com/Mayursoni1518/StudyNotion_Project.git
  -> cd studynotion
 
 ### Install backend dependencies
